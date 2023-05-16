@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { Tag, Product, ProductTag } = require('../../fantastic-umbrella/Develop/models');
+const { Tag, Product, ProductTag } = require('../../ORMEBE/models');
 
 // The `/api/tags` endpoint
 
