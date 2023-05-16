@@ -25,14 +25,11 @@ This application is a back end for an e-commerce site. It uses Express.js API an
 - THEN I am able to successfully create, update, and delete data in my database
 
 # Usage
-
-This application requires the following npm packages:
-    - express
-    - mysql2
-    - sequelize
+- To test out apllication routes, Insomnia is required
+- This application requires the following npm packages: express, mysql2, sequelize
 
 
-![alt text](./)
+![alt text](./examples./exampleORME.png "ORMEBE")
 
 # URL
 
