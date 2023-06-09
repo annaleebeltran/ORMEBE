@@ -9,7 +9,7 @@ const productData = [
   },
   {
     product_name: 'Running Sneakers',
-    price: 90.0,
+    price: 89.99,
     stock: 25,
     category_id: 5,
   },
